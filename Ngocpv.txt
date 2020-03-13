@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Lan dau tien
 userToni lan 1
 Ngocpv lan 2
+=======
+Lan dau tien
+>>>>>>> parent of d4a18f9... userToni sua lan 1
